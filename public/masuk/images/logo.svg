@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="5" viewBox="44 5 60 13">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 20.833px;
+        fill: #06a3da;
+        text-anchor: middle;
+        font-family: Ribeye;
+      }
+    </style>
+  </defs>
+  <text id="Info.co.id" class="cls-1" transform="matrix(0.837, 0, 0, 0.837, 42.5, 17.189)"><tspan x="0">Info.co.id</tspan></text>
+</svg>
